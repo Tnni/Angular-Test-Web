@@ -1,3 +1,7 @@
+This is my angular app to help myself get a better understanding of Angular and to test using basic Angular functionality. One more step towards a professional Full Stack Developer :)
+
+
+
 # AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
